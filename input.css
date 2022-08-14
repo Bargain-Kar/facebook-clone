@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+
+@tailwind utilities;
+.left{
+    display: inherit;
+}
+.right{
+    display: inherit;
+}
+.btn{
+    width: 23rem ;
+}
